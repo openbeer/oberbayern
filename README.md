@@ -1,4 +1,7 @@
-# München & Oberbayern › Bayern › Deutschland  (Munich & Upper Bavaria › Bavaria › Germany)
+Bayern › Deutschland (Bavaria › Germany)
+
+# München & Oberbayern (Munich & Upper Bavaria)
+
 
 ~~~
 _______________________________
