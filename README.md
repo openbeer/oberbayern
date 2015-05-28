@@ -1,7 +1,10 @@
 [Deutschland](https://github.com/openbeer/de-deutschland) › [Bayern](https://github.com/openbeer/by-bayern) • [Germany](https://github.com/openbeer/de-deutschland) › [Bavaria](https://github.com/openbeer/by-bayern)
 
 
-# München & Oberbayern  • Munich & Upper Bavaria
+# München & Oberbayern (OB) • Munich & Upper Bavaria
+
+Free open public domain beer, brewery n brewpub data for München & Oberbayern, Bayern, Deutschland
+(Munich & Upper Bavaria, Bavaria, Germany) in Europe.
 
 - Region Ingolstadt
     - (IN) - Ingolstadt
@@ -29,6 +32,8 @@
     - (TS) - Traunstein
     - (BGL) - Berchtesgadener Land
  
+
+Example:
 
 ~~~
 _______________________________
