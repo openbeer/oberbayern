@@ -3,6 +3,32 @@
 
 # München & Oberbayern  • Munich & Upper Bavaria
 
+- Region Ingolstadt
+    - (IN) - Ingolstadt
+    - (EI) - Eichstätt
+    - (ND) - Neuburg
+    - (PAF) - Pfaffenhofen an der Ilm
+- Region München
+    - (M) - München (Stadt & Landkreis)
+    - (FS) - Freising
+    - (ED) - Erding
+    - (EBE) - Ebersberg
+    - (STA) - Starnberg
+    - (LL) - Landsberg am Lech
+    - (FFB) - Fürstenfeldbruck
+    - (DAH) - Dachau
+- Region Oberland
+    - (WM) - Weilheim
+    - (GAP) - Garmisch-Partenkirchen
+    - (TÖL) - Bad Tölz
+    - (MB) - Miesbach
+- Region Südostoberbayern
+    - (RO) - Rosenheim (Stadt & Landkreis)
+    - (MÜ) - Mühldorf am Inn
+    - (AÖ) - Altötting
+    - (TS) - Traunstein
+    - (BGL) - Berchtesgadener Land
+ 
 
 ~~~
 _______________________________
@@ -31,38 +57,4 @@ Weihenstephaner Festbier,               5.8%, 13.3°, festbier|oktoberfest
 
 ...
 ~~~
-
-
-Verwaltungssitz: München
-
-Größte Städte:  1. München, 2. Ingolstadt, 3. Rosenheim, 4. Freising
-
-Der Regierungsbezirk Oberbayern umfasst
-
-- 3 kreisfreie Städte und
-    - München
-    - Ingolstadt
-    - Rosenheim
-
-- 20 Landkreise
-    - Landkreis Altötting
-    - Landkreis Bad Tölz-Wolfratshausen
-    - Landkreis Berchtesgadener Land
-    - Landkreis Dachau
-    - Landkreis Ebersberg
-    - Landkreis Eichstätt
-    - Landkreis Erding
-    - Landkreis Freising
-    - Landkreis Fürstenfeldbruck
-    - Landkreis Garmisch-Partenkirchen
-    - Landkreis Landsberg am Lech
-    - Landkreis Miesbach
-    - Landkreis Mühldorf am Inn
-    - Landkreis München
-    - Landkreis Neuburg-Schrobenhausen
-    - Landkreis Pfaffenhofen an der Ilm
-    - Landkreis Rosenheim
-    - Landkreis Starnberg
-    - Landkreis Traunstein
-    - Landkreis Weilheim-Schongau
 
