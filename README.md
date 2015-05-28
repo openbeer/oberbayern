@@ -1,6 +1,6 @@
-Bayern › Deutschland (Bavaria › Germany)
+[Bayern](https://github.com/openbeer/by-bayern) › [Deutschland](https://github.com/openbeer/de-deutschland) • [Bavaria](https://github.com/openbeer/by-bayern) › [Germany](https://github.com/openbeer/de-deutschland)
 
-# München & Oberbayern (Munich & Upper Bavaria)
+# München & Oberbayern  • Munich & Upper Bavaria
 
 
 ~~~
