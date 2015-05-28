@@ -6,11 +6,6 @@
 Free open public domain beer, brewery n brewpub data for München & Oberbayern, Bayern, Deutschland
 (Munich & Upper Bavaria, Bavaria, Germany) in Europe.
 
-- Region Ingolstadt
-    - (IN) - Ingolstadt
-    - (EI) - Eichstätt
-    - (ND) - Neuburg
-    - (PAF) - Pfaffenhofen an der Ilm
 - Region München
     - (M) - München (Stadt & Landkreis)
     - (FS) - Freising
@@ -20,6 +15,11 @@ Free open public domain beer, brewery n brewpub data for München & Oberbayern, 
     - (LL) - Landsberg am Lech
     - (FFB) - Fürstenfeldbruck
     - (DAH) - Dachau
+- Region Ingolstadt
+    - (IN) - Ingolstadt
+    - (EI) - Eichstätt
+    - (ND) - Neuburg
+    - (PAF) - Pfaffenhofen an der Ilm
 - Region Oberland
     - (WM) - Weilheim
     - (GAP) - Garmisch-Partenkirchen
