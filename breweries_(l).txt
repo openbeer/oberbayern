@@ -4,44 +4,32 @@
 
 Note: for now just used as a reference (please edit "original" record in landkreis breweries.txt file)
 
-
 ________________________
 - München (M) - Stadt
 
 [augustiner]
-  Augustiner Bräu München|Augustiner Bräu
-  80339 München // Landsberger Straße 31‎
+  Augustiner Bräu München
+  80339 München // Landsberger Straße 31
 
 [hofbraeu]
-  Hofbräu München|Hofbräuhaus München|Staatliches Hofbräuhaus München
+  Staatliches Hofbräuhaus München
   81829 München // Hofbräuallee 1 
 
 [paulaner]
   Paulaner Brauerei
-  81541 München // Hochstraße 75‎
+  81541 München // Hochstraße 75
 
 [hackerpschorr]
-  Hacker-Pschorr Brauerei
-  81541 München // Hochstraße 75‎
-# NB: war(!) eine Brauerei in München, und ist heute eine Marke der Paulaner-Brauerei
-
-#[spatenbraeu]
-#  Spatenbräu
-#  München //    # part of abinbev
-
-#[franziskaner]
-#   Franziskaner Brauerei
-#   München //    # part of abinbev
-
-
-[spatenbraeu]
-   Spaten-Franziskaner-Bräu
-   München //    # part of abinbev
+  Hacker-Pschorr Brauerei     # part of paulaner ("brand only", see paulaner)
+  81541 München // Hochstraße 75
 
 [loewenbraeu]
-  Löwenbräu
-  80335 München // Nymphenburger Straße 7‎
-# NB: Seit 1997 gehört Löwenbräu gemeinsam mit Spatenbräu der Spaten-Löwenbräu-Gruppe an, die wiederum zur Anheuser-Busch InBev-Gruppe gehört
+  Löwenbräu                   # part of abinbev
+  80335 München // Nymphenburger Straße 7
+
+[spatenbraeu]
+   Spaten-Franziskaner-Bräu   # part of abinbev ("brand only", see loewenbraeu)
+   München //    
 
 
 ____________________
@@ -87,5 +75,5 @@ __________________
 - Miesbach (MB)
 
 [tegernsee]
-  Herzoglich Bayerisches Brauhaus Tegernsee|Herzogliches Bräustüberl Tegernsee
+  Herzoglich Bayerisches Brauhaus Tegernsee
   83684 Tegernsee // Schloßplatz 1
