@@ -7,73 +7,43 @@ Note: for now just used as a reference (please edit "original" record in landkre
 ________________________
 - München (M) - Stadt
 
-[augustiner]
-  Augustiner Bräu München
-  80339 München // Landsberger Straße 31
+Augustiner Bräu München, München // Landsberger Straße 31
+Staatliches Hofbräuhaus München, München // Hofbräuallee 1 
 
-[hofbraeu]
-  Staatliches Hofbräuhaus München
-  81829 München // Hofbräuallee 1 
-
-[paulaner]
-  Paulaner Brauerei
-  81541 München // Hochstraße 75
-
-[hackerpschorr]
-  Hacker-Pschorr Brauerei     # part of paulaner ("brand only", see paulaner)
-  81541 München // Hochstraße 75
-
-[loewenbraeu]
-  Löwenbräu                   # part of abinbev
-  80335 München // Nymphenburger Straße 7
-
-[spatenbraeu]
-   Spaten-Franziskaner-Bräu   # part of abinbev ("brand only", see loewenbraeu)
-   München //    
-
-
+Paulaner Brauerei, München // Hochstraße 75                  # part of heineken
+Hacker-Pschorr Brauerei, München                             # part of paulaner ("brand only", see paulaner)
+  
+Löwenbräu, München // Nymphenburger Straße 7                 # part of abinbev
+Spaten-Franziskaner-Bräu, München //                         # part of abinbev ("brand only", see loewenbraeu)
+       
 ____________________
 - Starnberg (STA)
 
-[andechs]
-  Klosterbrauerei Andechs
-  82346 Andechs // Bergstraße 2
+Klosterbrauerei Andechs, Andechs //
 
 ___________________
 - Erding (ED)
 
-[erdinger]
-  Privatbrauerei Erdinger Weißbräu
-  85435 Erding // Franz-Brombach-Straße 1
+Privatbrauerei Erdinger Weißbräu, Erding //
 
 __________________
 - Freising (FS)
 
-[hofbrauhausfreising]
-  Gräfliches Hofbrauhaus Freising
-  85356 Freising // Mainburger Straße 26
-
-[weihenstephaner]
-  Bayrische Staatsbrauerei Weihenstephan
-  85354 Freising // Alte Akademie 2
+Gräfliches Hofbrauhaus Freising, Freising //
+Bayrische Staatsbrauerei Weihenstephan, Freising //
 
 __________________________
 - Fürstenfeldbruck (FFB)
 
-[koenigludwig]
-  König Ludwig Brauerei|Schlossbrauerei Kaltenberg
-  82256 Fürstenfeldbruck // Augsburger Straße 41
+König Ludwig Brauerei|Schlossbrauerei Kaltenberg, Fürstenfeldbruck //
 
 ____________________
 - Ingolstadt (IN)
 
-[herrnbraeu]
-  Herrnbräu
-  85053 Ingolstadt // Manchinger Straße 95
+Herrnbräu, Ingolstadt //
 
 __________________
 - Miesbach (MB)
 
-[tegernsee]
-  Herzoglich Bayerisches Brauhaus Tegernsee
-  83684 Tegernsee // Schloßplatz 1
+Herzoglich Bayerisches Brauhaus Tegernsee, Tegernsee //
+
