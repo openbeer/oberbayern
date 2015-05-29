@@ -1,0 +1,16 @@
+
+___________________________________________
+- Maxbrauerei Biermanufaktur | Altenstadt
+
+Maxbrauerei Zwickel Hell, 5.2%, zwickel
+Maxbrauerei Bernstein Hefeweizen, 5.8%, weizen
+Maxbrauerei Saphir Indian Pale Ale, 7.2%, india_pale_ale
+
+Maxbrauerei Indian Pale Ale, ipa
+Maxbrauerei Black IPA, black_india_pale_ale
+
+Altenstädter Spezial Dunkle Wies'n-Weisse
+Altenstädter Spezial Maibock
+Altenstädter Spezial Weizenbock
+
+
