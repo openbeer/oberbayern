@@ -1,0 +1,22 @@
+
+___________________________________________________
+- Klosterbrauerei Baumburg | Altenmarkt an der Alz
+
+Klosterbrauerei Baumburg Kloster Hell, 4.8%, helles
+Klosterbrauerei Baumburg Export Hell, 5.2%, export
+Baumburger Kosterdunkel, 5.5%
+Klosterbrauerei Baumburg Kloster Pils, 4.8%, pils
+
+Klosterbrauerei Baumburg Kloster Weiße, weizen
+Klosterbrauerei Baumburg Dunkle Weiße, dunkles_weizen
+
+Klosterbrauerei Baumburg Heller Bock, heller_bock
+Klosterbrauerei Baumburg Märzen Spezial, maerzen|festbier
+
+Klosterbrauerei Baumburg Chorherrenbock, bock
+
+Baumburger Stopfbock, heller_bock
+Klosterbrauerei Baumburg Bio Klosterdunkel, dunkles
+Klosterbrauerei Baumburg Festbier, festbier
+Klosterbrauerei Baumburg Kloster Hell Naturtrüb, zwickel
+Klosterbrauerei Baumburg Weissbier Bock, weizenbock
