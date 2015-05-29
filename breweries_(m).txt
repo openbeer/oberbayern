@@ -1,7 +1,10 @@
 ###################################
-# Breweries (> 20_000 hl)
+# Breweries  > 20 000 hl
 
-Note: for now just used as a reference (please edit "original" record in landkreis breweries.txt file)
+
+## Note: for now just used as a reference
+## (please edit "original" record in landkreis breweries.txt file)
+
 
 ___________________________
 - München (M) - Landkreis
