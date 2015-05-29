@@ -1,0 +1,38 @@
+
+_______________________________________________
+- Gräfliches Hofbrauhaus Freising | Freising
+
+Graf Ignaz Lager, lager
+Graf Ignaz Premium Pilsner, 4.9%, pils
+Graf Toerring Export, export|spezial
+Graf Toerring Hell, helles
+Graf Toerring Schwarzbier Premium Dunkel, schwarzbier
+
+Hofbrauhaus Freising Urhell, 4.9%, helles
+Hofbrauhaus Freising Dunkel Premium, 5.2%, dunkles
+Hofbrauhaus Freising Festbier, festbier
+Hofbrauhaus Freising Jägerbier, 5.6%, export
+
+Huber Weisses Original, 5.4%, weizen
+Huber Weisses Dunkel, 5.4%, dunkles_weizen
+Huber Weisses Fresh, weizen
+Huber Weisses Kristall, weizen
+Huber Weisses Leicht, weizen
+
+
+____________________________________________________
+- Bayrische Staatsbrauerei Weihenstephan | Freising
+
+Weihenstephaner Hefeweissbier,          5.4%, 12.0°, weisse
+Weihenstephaner Hefeweissbier Dunkel,   5.3%, 12.7°, weisse_dunkel
+Weihenstephaner Kristallweissbier,      5.4%, 12.7°, weisse_kristall
+Weihenstephaner Original Bayrisch Mild, 5.1%, 11.6°, helles
+Weihenstephaner Infinium,              10.5%,        starkbier
+Weihenstephaner Hefeweissbier Leicht,   3.2%,  7.7°, weisse_leicht
+Weihenstephaner Pilsner,                5.1%, 11.8°, pilsner
+Weihenstephaner Tradition,              5.2%, 12.8°, dunkel
+Weihenstephaner Festbier,               5.8%, 13.3°, festbier|oktoberfest
+
+Weihenstephan Korbinian, doppelbock
+Weihenstephan Vitus, weizenbock
+
