@@ -1,0 +1,20 @@
+____________________________________
+- Herrnbräu | Ingolstadt
+
+Herrnbräu Dunkel, export
+Herrnbräu Hefe Weißbier Dunkel, weizen
+Herrnbräu Hefe Weißbier Hell, weizen
+Herrnbräu Helles Vollbier, helles
+Herrnbräu Ingolstädter Gold
+Herrnbräu Kristall Weizen, weizen
+Herrnbräu Leichtes Weizen, weizen
+Herrnbräu Pantherweisse Hefeweissbier Naturtrüb, weizen
+Herrnbräu Premium Pils, pils
+Herrnbräu Römergold
+Herrnbräu Roter Panther
+Herrnbräu Schneewalzer, weizen
+Herrnbräu Tradition, maerzen|festbier
+Herrnbräu Weihnachtsbier, festbier
+Herrnbräu Weizenbock, weizenbock
+Herrnbräu Zwickl
+
