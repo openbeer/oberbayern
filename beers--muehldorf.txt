@@ -9,3 +9,23 @@ Aschauer Bio-Spezial Pils, 5%, pils
 
 Communicator, doppelbock
 
+
+______________________________________
+- Brauerei Erharting | Erharting
+
+Erharting Export Hell, 5.1%, export
+Erharting Dunkel, 5.2%, dunkles
+Erharting Pils, 4.8%, pils
+
+Erharting Hefe Weisse, 4.7%, weizen
+Erharting Dunkle Ritter Weisse, 4.7%, dunkles_weizen
+
+Erharting Doppelritter, dunkler_doppelbock
+Erharting Festbier
+Erharting Leicht, lite
+Erharting Leichte Weisse, weizen|lite
+Erharting Ritter Zwerg, export)
+Erharting Rittertrunk Naturtrüb, zwickel
+Erharting Winterbier
+
+
