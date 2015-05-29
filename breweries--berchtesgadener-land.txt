@@ -2,11 +2,21 @@
 _______________________________
 - Berchtesgadener Land (BGL)
 
+[buergerbraeu]
+  Alpenbrauerei Bürgerbräu|Bürgerbräu Bad Reichenhall|Bürgerbräu Bad Reichenhall August Röhm & Söhne, 1633
+  Waaggasse 1-3 // 83435 Bad Reichenhall
+  www.buergerbraeu.com
+  brands: Alpenstoff
+
+[hbberchtesgaden]
+  Hofbräuhaus Berchtesgaden, 1645
+  Bräuhausstraße 15 // 83471 Berchtesgaden
+  www.hofbrauhaus-berchtesgaden.de
+
 [wieninger]
   Privatbrauerei M. C. Wieninger
   Teisendorf //
 
 
 Brauerei Gasthof Weißbräu, Freilassing // 
-
 
