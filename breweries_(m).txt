@@ -1,38 +1,31 @@
 ###################################
 # Breweries (> 20_000 hl)
 
+Note: for now just used as a reference (please edit "original" record in landkreis breweries.txt file)
 
-____________________________
-- Landkreis München
+___________________________
+- München (M) - Landkreis
 
 [aying]
-  Brauerei Aying, 1878
+  Brauerei Aying
   Münchener Straße 21 // 85653 Aying
-  www.ayinger.de
-  brands: Ayinger
-
-
-___________________________________________
--  Landkreis Berchtesgadener Land
-
-[buergerbraeu]
-  Alpenbrauerei Bürgerbräu|Bürgerbräu Bad Reichenhall|Bürgerbräu Bad Reichenhall August Röhm & Söhne, 1633
-  Waaggasse 1-3 // 83435 Bad Reichenhall
-  www.buergerbraeu.com
-  brands: Alpenstoff
-
-[hbberchtesgaden]
-  Hofbräuhaus Berchtesgaden, 1645
-  Bräuhausstraße 15 // 83471 Berchtesgaden
-  www.hofbrauhaus-berchtesgaden.de
-
 
 ______________________________
-- Landkreis Freising
+- Berchtesgadener Land (BGL)
+
+[buergerbraeu]
+  Alpenbrauerei Bürgerbräu|Bürgerbräu Bad Reichenhall
+  Waaggasse 1-3 // 83435 Bad Reichenhall
+
+[hbberchtesgaden]
+  Hofbräuhaus Berchtesgaden
+  Bräuhausstraße 15 // 83471 Berchtesgaden
+
+
+__________________
+- Freising (FS)
 
 [auhallertau]
-  Schloßbrauerei Au-Hallertau|Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, 1590
+  Schloßbrauerei Au-Hallertau
   Schlossbräugasse 2	// 84072 Au in der Hallertau    ## Au-Hallertau
-  www.auerbier.de
-
 
