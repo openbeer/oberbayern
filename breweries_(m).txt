@@ -6,26 +6,15 @@ Note: for now just used as a reference (please edit "original" record in landkre
 ___________________________
 - München (M) - Landkreis
 
-[aying]
-  Brauerei Aying
-  Münchener Straße 21 // 85653 Aying
+Brauerei Aying, Aying //
 
 ______________________________
 - Berchtesgadener Land (BGL)
 
-[buergerbraeu]
-  Alpenbrauerei Bürgerbräu|Bürgerbräu Bad Reichenhall
-  Waaggasse 1-3 // 83435 Bad Reichenhall
-
-[hbberchtesgaden]
-  Hofbräuhaus Berchtesgaden
-  Bräuhausstraße 15 // 83471 Berchtesgaden
-
+Alpenbrauerei Bürgerbräu|Bürgerbräu Bad Reichenhall, Bad Reichenhall //
+Hofbräuhaus Berchtesgaden, Berchtesgaden //
 
 __________________
 - Freising (FS)
 
-[auhallertau]
-  Schloßbrauerei Au-Hallertau
-  Schlossbräugasse 2	// 84072 Au in der Hallertau    ## Au-Hallertau
-
+Schloßbrauerei Au-Hallertau, Au in der Hallertau //
