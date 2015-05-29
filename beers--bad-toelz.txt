@@ -8,3 +8,9 @@ Tölzer Herbstweisse
 Tölzer Dunkles
 Tölzer Weihnachtsbock
 
+
+_________________________
+- Wampenbräu  |  Bichl
+
+Wampenbräu Amber Ale,     5.4%, 13.4°, amber_ale
+Wampenbräu Centalaxy IPA, 7.5%, 17.2°
