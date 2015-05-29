@@ -14,3 +14,10 @@ ____________________
   www.weihenstephaner.de
   ## www.brauerei-weihenstephan.de
   de.wikipedia: Bayerische_Staatsbrauerei_Weihenstephan
+
+
+[auhallertau]
+  Schloßbrauerei Au-Hallertau|Schloßbrauerei Au/Hallertau Willibald Freiherr Beck von Peccoz, 1590
+  Schlossbräugasse 2	// 84072 Au in der Hallertau    ## Au-Hallertau
+  www.auerbier.de
+
