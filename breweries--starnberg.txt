@@ -1,3 +1,9 @@
-__________________
+____________________
 - Starnberg (STA)
+
+[andechs]
+  Klosterbrauerei Andechs, 1455
+  82346 Andechs // Bergstraße 2
+  www.andechs.de
+  de.wikipedia: Klosterbrauerei_Andechs
 
