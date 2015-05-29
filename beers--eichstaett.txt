@@ -1,0 +1,25 @@
+
+______________________________________
+- Privatbrauerei Hofmühl | Eichstätt
+
+Hofmühl Hell, 4.9%, lager|helles
+Hofmühl Weissbier, 5.4%, weizen
+Hofmühl Weissbier Dunkel, 5.4%, weizen|dunkel
+Hofmühl Weissbier Leicht, weizen|lite
+
+Hofmühl Privat Pils, 4.9%, pils
+
+Hofmühl Alligator, 7.5, dunkler_doppelbock
+
+Hofmühl Columbus, imperial_ipa
+Hofmühl Dunkel, dunkles
+Hofmühl Kellergold, kellerbier
+Hofmühl Märzengold, maerzen
+Hofmühl Volksfestbier, festbier|maerzen
+
+
+___________________________________
+- Schattenhofer | Beilngries
+
+Schattenhofer Hirsch Helles Lagerbier, 4.8%, helles_lager
+Schattenhofer Hahn Pilsbier, 4.7%, pils
