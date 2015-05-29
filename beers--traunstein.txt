@@ -20,3 +20,14 @@ Klosterbrauerei Baumburg Bio Klosterdunkel, dunkles
 Klosterbrauerei Baumburg Festbier, festbier
 Klosterbrauerei Baumburg Kloster Hell Naturtrüb, zwickel
 Klosterbrauerei Baumburg Weissbier Bock, weizenbock
+
+
+_______________________________
+- Chiemseebräu | Grabenstätt
+
+Chiemseebräu Zwickl, 5.1%, zwickel
+Chiemseebräu Weißbier, 5.1%, weizen
+Chiemseebräu Schwarzbier, 5.1%
+
+Chiemseebräu Dunkler Bock, bock
+
