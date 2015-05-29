@@ -1,0 +1,12 @@
+_______________________________________________
+- Privatbrauerei Erdinger Weißbräu | Erding
+
+Erdinger Weißbier, 5.3%           # Weißbier
+Erdinger Kristall, 5.3%        # Weißbier Kristall
+Erdinger Urweisse, 5.2%   # Weißbier
+
+Erdinger Dunkel|Erdinger Weißbier Dunkel, 5.6%, weizen
+Erdinger Weißbier Leicht, weizen
+Erdinger Schneeweiße, weizen
+Erdinger Festweiße, weizen
+Erdinger Pikantus Dunkler Weizenbock, weizenbock
