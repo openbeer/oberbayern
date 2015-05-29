@@ -2,3 +2,15 @@
 ____________________
 - Freising (FS)
 
+[hofbrauhausfreising]
+  Gräfliches Hofbrauhaus Freising, 1160
+  85356 Freising // Mainburger Straße 26
+  www.hofbrauhaus-freising.de
+  de.wikipedia: Gräflich_von_Moy’sches_Hofbrauhaus
+
+[weihenstephaner]
+  Bayrische Staatsbrauerei Weihenstephan, 1040
+  85354 Freising // Alte Akademie 2
+  www.weihenstephaner.de
+  ## www.brauerei-weihenstephan.de
+  de.wikipedia: Bayerische_Staatsbrauerei_Weihenstephan
