@@ -1,8 +1,9 @@
 ###################################
-# Breweries (> 100_000 hl)
+# Breweries   > 100 000 hl
 
 
-Note: for now just used as a reference (please edit "original" record in landkreis breweries.txt file)
+## Note: for now just used as a reference
+##  (please edit "original" record in landkreis breweries.txt file)
 
 ________________________
 - München (M) - Stadt
@@ -10,11 +11,12 @@ ________________________
 Augustiner Bräu München, München // Landsberger Straße 31
 Staatliches Hofbräuhaus München, München // Hofbräuallee 1 
 
-Paulaner Brauerei, München // Hochstraße 75                  # part of heineken
-Hacker-Pschorr Brauerei, München                             # part of paulaner ("brand only", see paulaner)
+Paulaner Brauerei, München // Hochstraße 75                  # part of heineken (~49.9%)
+Hacker-Pschorr Brauerei, München //                          # brand only; brewery closed -- brewed by paulaner 
   
 Löwenbräu, München // Nymphenburger Straße 7                 # part of abinbev
-Spaten-Franziskaner-Bräu, München //                         # part of abinbev ("brand only", see loewenbraeu)
+Spaten-Franziskaner-Bräu, München //                         # brand only; brewery closed -- brewed by loewenbraeu 
+
        
 ____________________
 - Starnberg (STA)
