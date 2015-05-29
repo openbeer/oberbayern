@@ -1,6 +1,6 @@
 
-__________________________
-- Berchtesgadener Land
+_______________________________
+- Berchtesgadener Land (BGL)
 
 [wieninger]
   Privatbrauerei M. C. Wieninger

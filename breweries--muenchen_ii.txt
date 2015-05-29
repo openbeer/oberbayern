@@ -1,6 +1,6 @@
 
-____________________
-- München (Stadt)
+______________________
+- München (M) - Stadt
 
 ## more
 
@@ -10,8 +10,8 @@ Giesinger Bräu, München //
 Richelbräu, München-Neuhausen // 
 
 
-_________________________
-- München (Landkreis)
+__________________________
+- München (M) - Landkreis
 
 Di Gastro Fliegerbräu, Feldkirchen-Riem // 
 Di Gastro Isarbräu, Pullach-Großhesselohe // 
