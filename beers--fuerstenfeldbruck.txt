@@ -1,0 +1,12 @@
+
+____________________________________________________
+- Schlossbrauerei Kaltenberg | Fürstenfeldbruck
+
+König Ludwig Dunkel, dunkles
+König Ludwig Hell, helles               ## move to holzkirchen ??
+
+König Ludwig Weissbier Dunkel, weizen
+König Ludwig Weissbier Hell, weizen
+König Ludwig Weissbier Kristall, weizen
+König Ludwig Weissbier Leicht, weizen
+
